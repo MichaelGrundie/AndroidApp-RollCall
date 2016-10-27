@@ -1,0 +1,7 @@
+This is the solution for foundation degree's second year android project.
+
+Due to time constraits I was unable to implement a database and for this reason test data is hard-coded.
+
+The app uses the current time to find a sheduled class. I then presents the user with names of pupils and allows the user to
+mark their attendance. Marking the student as absent sends their name to the back of the queue in case tey show at a later time.
+Attending student are removed from the queue.
