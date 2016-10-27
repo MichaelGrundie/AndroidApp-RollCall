@@ -1,0 +1,7 @@
+#Thu Oct 27 15:00:56 BST 2016
+base.0=/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ef253455860ef207b69a55e8a74cd832664453b9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_180dfa6a1df9b430f00184609be41271774dde45/classes.dex
+base.1=/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_180dfa6a1df9b430f00184609be41271774dde45
+file.0=/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ef253455860ef207b69a55e8a74cd832664453b9/classes.dex

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.example.michaekgrundie.rollcallnrc"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <application
+        name="co.example.michaekgrundie.rollcallnrc.Global"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="co.example.michaekgrundie.rollcallnrc.LecturerLogin"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="co.example.michaekgrundie.rollcallnrc.LecturerOptions"
+            android:label="@string/title_activity_lecturer_options" />
+        <activity
+            android:name="co.example.michaekgrundie.rollcallnrc.Attendance"
+            android:label="@string/title_activity_attendance"
+            android:parentActivityName="co.example.michaekgrundie.rollcallnrc.LecturerOptions" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="co.example.michaekgrundie.rollcallnrc.LecturerOptions" />
+        </activity>
+        <activity
+            android:name="co.example.michaekgrundie.rollcallnrc.ClassList"
+            android:label="@string/title_activity_class_list"
+            android:parentActivityName="co.example.michaekgrundie.rollcallnrc.LecturerOptions"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="co.example.michaekgrundie.rollcallnrc.LecturerOptions" />
+        </activity>
+        <activity
+            android:name="co.example.michaekgrundie.rollcallnrc.ClassStudents"
+            android:label="@string/title_activity_class_students"
+            android:parentActivityName="co.example.michaekgrundie.rollcallnrc.ClassList"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="co.example.michaekgrundie.rollcallnrc.ClassList" />
+        </activity>
+    </application>
+
+</manifest>

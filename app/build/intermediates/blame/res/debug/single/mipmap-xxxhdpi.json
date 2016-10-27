@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/cross.png",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/mipmap-xxxhdpi/cross.png"
+    },
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/tick.png",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/mipmap-xxxhdpi/tick.png"
+    }
+]

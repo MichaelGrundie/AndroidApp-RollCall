@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/menu/menu_lecturer_login.xml",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/menu/menu_lecturer_login.xml"
+    },
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/menu/menu_lecturer_options.xml",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/menu/menu_lecturer_options.xml"
+    },
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/menu/menu_attendance.xml",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/menu/menu_attendance.xml"
+    }
+]

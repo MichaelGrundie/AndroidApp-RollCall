@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/cross.png",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/mipmap-xxhdpi/cross.png"
+    },
+    {
+        "merged": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/tick.png",
+        "source": "/Users/MichaekGrundie/AndroidStudioProjects/RollCallNRC/app/src/main/res/mipmap-xxhdpi/tick.png"
+    }
+]
